@@ -1,0 +1,6 @@
+5
+code -10
+soda 5
+bubble-gum 2
+cake 100
+running -7
